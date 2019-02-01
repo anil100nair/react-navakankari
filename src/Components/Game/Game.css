@@ -1,0 +1,131 @@
+.board {
+  position: relative;
+  height: 800px;
+  width: 750px;
+  background-color: bisque;
+}
+
+.hole {
+  position: absolute;
+}
+
+.hole-1 {
+  left: 350px;
+  bottom: 450px;
+}
+
+.hole-2 {
+  left: 450px;
+  bottom: 450px;
+}
+
+.hole-3 {
+  left: 450px;
+  bottom: 350px;
+}
+
+.hole-4 {
+  left: 450px;
+  bottom: 250px;
+}
+
+.hole-5 {
+  left: 350px;
+  bottom: 250px;
+}
+
+.hole-6 {
+  left: 250px;
+  bottom: 250px;
+}
+
+.hole-7 {
+  left: 250px;
+  bottom: 350px;
+}
+
+.hole-8 {
+  left: 250px;
+  bottom: 450px;
+}
+
+.hole-9 {
+  left: 350px;
+  bottom: 550px;
+}
+
+.hole-10 {
+  left: 550px;
+  bottom: 550px;
+}
+
+.hole-11 {
+  left: 550px;
+  bottom: 350px;
+}
+
+.hole-12 {
+  left: 550px;
+  bottom: 150px;
+}
+
+.hole-13 {
+  left: 350px;
+  bottom: 150px;
+}
+
+.hole-14 {
+  left: 150px;
+  bottom: 150px;
+}
+
+.hole-15 {
+  left: 150px;
+  bottom: 350px;
+}
+
+.hole-16 {
+  left: 150px;
+  bottom: 550px;
+}
+
+.hole-17 {
+  left: 350px;
+  bottom: 650px;
+}
+
+.hole-18 {
+  left: 650px;
+  bottom: 650px;
+}
+
+.hole-19 {
+  left: 650px;
+  bottom: 350px;
+}
+
+.hole-20 {
+  left: 650px;
+  bottom: 50px;
+}
+
+.hole-21 {
+  left: 350px;
+  bottom: 50px;
+}
+
+.hole-22 {
+  left: 50px;
+  bottom: 50px;
+}
+
+
+.hole-23 {
+  left: 50px;
+  bottom: 350px;
+}
+
+.hole-24 {
+  left: 50px;
+  bottom: 650px;
+}
